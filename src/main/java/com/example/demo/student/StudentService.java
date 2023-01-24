@@ -59,6 +59,7 @@ public class StudentService {
                }
 
                student.setEmail(email);
+               System.out.print("Done");
            }
 
       }
